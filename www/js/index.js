@@ -64,6 +64,12 @@ var app = {
     renderCube: function() {
         var canvas = document.getElementById("myCanvas");
             
+            function initCanvasArea() {
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+                draw();
+            };
+
             var renderer = new Pre3d.Renderer(canvas);
             
             var cube = Pre3d.ShapeUtils.makeCube(1);
@@ -81,8 +87,7 @@ var app = {
             };
             
             function draw(){
-                initCanvasArea(canvas);
-
+              
                 renderer.transform.reset();
                 renderer.transform.rotateX(state.cube_rotate_x_rad);
                 renderer.transform.rotateY(state.cube_rotate_y_rad);
@@ -100,22 +105,16 @@ var app = {
             renderer.camera.focal_length = 2.5;
             DemoUtils.autoCamera(renderer, 0, 0, -8, 0, 0, 0, draw);
             
-            function initCanvasArea(cnv) {
-                cnv.width = window.innerWidth;
-                cnv.height = ((window.innerHeight)*0.8);
-            };
-            
-            draw();
-
-
+            initCanvasArea();
+            //draw();
     }
 
 };
 
-$( document ).on( "deviceready", function(){
-        StatusBar.overlaysWebView( false );
-        StatusBar.backgroundColorByName("gray");
-});
+// $( document ).on( "deviceready", function(){
+//         StatusBar.overlaysWebView( false );
+//         StatusBar.backgroundColorByName("gray");
+// });
 
 
             

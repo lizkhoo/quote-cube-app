@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.lizkhoo.cubeapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="phonegap-version" value="3.4.0" />
+    <gap:platform name="ios" />
     <name>CubeApp</name>
     <description>Red Burns quote generator with cube interface</description>
     <author email="liz.khoo@nyu.edu" href="http://lizkhoo.com">Liz Khoo </author>
