@@ -1,0 +1,102 @@
+2014-03-08 09:41:02.155 CubeApp[3844:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 09:41:02.161 CubeApp[3844:80b] Unlimited access to network resources
+2014-03-08 09:41:02.276 CubeApp[3844:80b] Resetting plugins due to page load.
+2014-03-08 09:41:02.324 CubeApp[3844:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-08 10:06:06.738 CubeApp[4052:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 10:06:06.748 CubeApp[4052:80b] Unlimited access to network resources
+2014-03-08 10:06:06.847 CubeApp[4052:80b] Resetting plugins due to page load.
+2014-03-08 10:06:06.893 CubeApp[4052:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-08 10:08:29.591 CubeApp[4253:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 10:08:29.598 CubeApp[4253:80b] Unlimited access to network resources
+2014-03-08 10:08:29.711 CubeApp[4253:80b] Resetting plugins due to page load.
+2014-03-08 10:08:29.759 CubeApp[4253:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-08 10:17:47.649 CubeApp[4453:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 10:17:47.659 CubeApp[4453:80b] Unlimited access to network resources
+2014-03-08 10:17:47.686 CubeApp[4453:80b] [CDVTimer][statusbar] 8.535981ms
+2014-03-08 10:17:47.687 CubeApp[4453:80b] [CDVTimer][TotalPluginStartup] 9.094954ms
+2014-03-08 10:17:47.800 CubeApp[4453:80b] Resetting plugins due to page load.
+2014-03-08 10:17:48.037 CubeApp[4453:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-08 10:19:57.147 CubeApp[4614:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 10:19:57.153 CubeApp[4614:80b] Unlimited access to network resources
+2014-03-08 10:19:57.177 CubeApp[4614:80b] [CDVTimer][statusbar] 7.874966ms
+2014-03-08 10:19:57.177 CubeApp[4614:80b] [CDVTimer][TotalPluginStartup] 8.316994ms
+2014-03-08 10:19:57.288 CubeApp[4614:80b] Resetting plugins due to page load.
+2014-03-08 10:19:57.442 CubeApp[4614:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-08 10:23:30.900 CubeApp[4775:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-08 10:23:30.906 CubeApp[4775:80b] Unlimited access to network resources
+2014-03-08 10:23:30.934 CubeApp[4775:80b] [CDVTimer][statusbar] 8.451998ms
+2014-03-08 10:23:30.934 CubeApp[4775:80b] [CDVTimer][TotalPluginStartup] 8.906007ms
+2014-03-08 10:23:31.039 CubeApp[4775:80b] Resetting plugins due to page load.
+2014-03-08 10:23:31.215 CubeApp[4775:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-09 11:30:07.693 CubeApp[5827:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:30:07.704 CubeApp[5827:80b] Unlimited access to network resources
+2014-03-09 11:30:07.730 CubeApp[5827:80b] [CDVTimer][statusbar] 7.806957ms
+2014-03-09 11:30:07.731 CubeApp[5827:80b] [CDVTimer][TotalPluginStartup] 8.292019ms
+2014-03-09 11:30:07.857 CubeApp[5827:80b] Resetting plugins due to page load.
+2014-03-09 11:30:07.989 CubeApp[5827:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:31:08.038 CubeApp[5996:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:31:08.044 CubeApp[5996:80b] Unlimited access to network resources
+2014-03-09 11:31:08.070 CubeApp[5996:80b] [CDVTimer][statusbar] 6.812990ms
+2014-03-09 11:31:08.070 CubeApp[5996:80b] [CDVTimer][TotalPluginStartup] 7.313013ms
+2014-03-09 11:31:08.171 CubeApp[5996:80b] Resetting plugins due to page load.
+2014-03-09 11:31:08.331 CubeApp[5996:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-09 11:37:59.306 CubeApp[6180:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:37:59.312 CubeApp[6180:80b] Unlimited access to network resources
+2014-03-09 11:37:59.337 CubeApp[6180:80b] [CDVTimer][statusbar] 8.394003ms
+2014-03-09 11:37:59.337 CubeApp[6180:80b] [CDVTimer][TotalPluginStartup] 8.823037ms
+2014-03-09 11:37:59.443 CubeApp[6180:80b] Resetting plugins due to page load.
+2014-03-09 11:37:59.594 CubeApp[6180:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:42:48.879 CubeApp[6357:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:42:48.885 CubeApp[6357:80b] Unlimited access to network resources
+2014-03-09 11:42:48.911 CubeApp[6357:80b] [CDVTimer][statusbar] 7.293999ms
+2014-03-09 11:42:48.911 CubeApp[6357:80b] [CDVTimer][TotalPluginStartup] 7.836998ms
+2014-03-09 11:42:49.015 CubeApp[6357:80b] Resetting plugins due to page load.
+2014-03-09 11:42:49.154 CubeApp[6357:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:51:25.705 CubeApp[6549:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:51:25.711 CubeApp[6549:80b] Unlimited access to network resources
+2014-03-09 11:51:25.738 CubeApp[6549:80b] [CDVTimer][statusbar] 7.589996ms
+2014-03-09 11:51:25.739 CubeApp[6549:80b] [CDVTimer][TotalPluginStartup] 8.104980ms
+2014-03-09 11:51:25.840 CubeApp[6549:80b] Resetting plugins due to page load.
+2014-03-09 11:51:25.983 CubeApp[6549:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:53:05.179 CubeApp[6676:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:53:05.185 CubeApp[6676:80b] Unlimited access to network resources
+2014-03-09 11:53:05.213 CubeApp[6676:80b] [CDVTimer][statusbar] 8.391023ms
+2014-03-09 11:53:05.213 CubeApp[6676:80b] [CDVTimer][TotalPluginStartup] 8.822978ms
+2014-03-09 11:53:05.314 CubeApp[6676:80b] Resetting plugins due to page load.
+2014-03-09 11:53:05.494 CubeApp[6676:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:53:37.809 CubeApp[6789:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:53:37.817 CubeApp[6789:80b] Unlimited access to network resources
+2014-03-09 11:53:37.842 CubeApp[6789:80b] [CDVTimer][statusbar] 7.193983ms
+2014-03-09 11:53:37.842 CubeApp[6789:80b] [CDVTimer][TotalPluginStartup] 7.668018ms
+2014-03-09 11:53:37.940 CubeApp[6789:80b] Resetting plugins due to page load.
+2014-03-09 11:53:38.107 CubeApp[6789:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 11:58:11.737 CubeApp[6969:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 11:58:11.746 CubeApp[6969:80b] Unlimited access to network resources
+2014-03-09 11:58:11.773 CubeApp[6969:80b] [CDVTimer][statusbar] 8.309007ms
+2014-03-09 11:58:11.774 CubeApp[6969:80b] [CDVTimer][TotalPluginStartup] 8.744955ms
+2014-03-09 11:58:11.877 CubeApp[6969:80b] Resetting plugins due to page load.
+2014-03-09 11:58:12.042 CubeApp[6969:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+2014-03-09 12:07:10.145 CubeApp[7114:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 12:07:10.151 CubeApp[7114:80b] Unlimited access to network resources
+2014-03-09 12:07:10.175 CubeApp[7114:80b] [CDVTimer][statusbar] 6.707013ms
+2014-03-09 12:07:10.175 CubeApp[7114:80b] [CDVTimer][TotalPluginStartup] 7.183969ms
+2014-03-09 12:07:10.271 CubeApp[7114:80b] Resetting plugins due to page load.
+2014-03-09 12:07:10.424 CubeApp[7114:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-09 12:07:52.407 CubeApp[7230:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 12:07:52.415 CubeApp[7230:80b] Unlimited access to network resources
+2014-03-09 12:07:52.438 CubeApp[7230:80b] [CDVTimer][statusbar] 6.702960ms
+2014-03-09 12:07:52.438 CubeApp[7230:80b] [CDVTimer][TotalPluginStartup] 7.146001ms
+2014-03-09 12:07:52.556 CubeApp[7230:80b] Resetting plugins due to page load.
+2014-03-09 12:07:52.714 CubeApp[7230:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-09 12:08:42.073 CubeApp[7346:80b] Multi-tasking -> Device: YES, App: YES
+2014-03-09 12:08:42.080 CubeApp[7346:80b] Unlimited access to network resources
+2014-03-09 12:08:42.104 CubeApp[7346:80b] [CDVTimer][statusbar] 8.516967ms
+2014-03-09 12:08:42.104 CubeApp[7346:80b] [CDVTimer][TotalPluginStartup] 9.039998ms
+2014-03-09 12:08:42.205 CubeApp[7346:80b] Resetting plugins due to page load.
+2014-03-09 12:08:42.359 CubeApp[7346:80b] Finished load of: file:///Users/emkhoo/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/0A0B54C7-979B-4312-9CDB-8EDA3E3FD1BF/CubeApp.app/www/index.html
+Terminating in response to SpringBoard's termination.

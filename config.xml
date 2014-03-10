@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lizkhoo.cubeapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CubeApp</name>
+    <description>Red Burns quote generator with cube interface</description>
+    <author email="liz.khoo@nyu.edu" href="http://lizkhoo.com">Liz Khoo </author>
+    <content src="index.html" />
+    <feature name="Accelerometer">
+        <param name="ios-package" value="CDVAccelerometer" />
+    </feature>
+    <feature name="http://api.phonegap.com/1.0/device" />
+    <preference name="orientation" value="landscape" />
+    <preference name="fullscreen" value="false" />
+    <preference name="target-device" value="universal" />
+    <preference name="EnableViewportScale" value="true"/>
+    <preference name="TopActivityIndicator" value="grey"/>
+    <preference name="ios-statusbarstyle" value="black-opaque" />
+    <icon gap:platform="ios" height="57" src="res/icon/ios/icon-57.png" width="57" />
+    <icon gap:platform="ios" height="72" src="res/icon/ios/icon-72.png" width="72" />
+    <icon gap:platform="ios" height="114" src="res/icon/ios/icon-57-2x.png" width="114" />
+    <icon gap:platform="ios" height="144" src="res/icon/ios/icon-72-2x.png" width="144" />
+    <gap:splash gap:platform="ios" height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
+    <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
+    <access origin="*" />
+</widget>
