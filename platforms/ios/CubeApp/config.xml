@@ -24,6 +24,8 @@
     </feature>
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="phonegap-version" value="3.4.0" />
+    <gap:platform name="ios" />
     <name>CubeApp</name>
     <description>Red Burns quote generator with cube interface</description>
     <author email="liz.khoo@nyu.edu" href="http://lizkhoo.com">Liz Khoo </author>
